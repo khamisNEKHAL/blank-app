@@ -1,2 +1,2 @@
-pip install -r requirements.txt
-streamlit run app.py
+streamlit==1.39.0
+requests>=2.31.0
